@@ -27,6 +27,11 @@ langchain-groq
 langchain_core
 streamlit
 
+fastapi
+uvicorn
+langserve
+
+
 duckduckgo_search==5.3.1b1
 pymupdf
 arxiv
